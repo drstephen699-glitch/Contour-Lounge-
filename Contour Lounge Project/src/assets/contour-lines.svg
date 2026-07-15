@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" fill="none">
+  <!-- Contour line 1 - thickest, most prominent -->
+  <path
+    d="M0 140 C100 120, 200 160, 300 130 C400 100, 500 150, 600 120 C700 90, 750 130, 800 110"
+    stroke="#B3874E"
+    stroke-width="1.5"
+    stroke-opacity="0.6"
+    stroke-linecap="round"
+  />
+  <!-- Contour line 2 -->
+  <path
+    d="M0 110 C120 90, 220 130, 340 100 C460 70, 520 120, 640 90 C720 70, 760 100, 800 80"
+    stroke="#D9AE78"
+    stroke-width="1"
+    stroke-opacity="0.4"
+    stroke-linecap="round"
+  />
+  <!-- Contour line 3 -->
+  <path
+    d="M0 80 C80 60, 180 100, 280 70 C380 40, 480 90, 580 60 C680 35, 740 70, 800 50"
+    stroke="#B3874E"
+    stroke-width="0.75"
+    stroke-opacity="0.25"
+    stroke-linecap="round"
+  />
+  <!-- Contour line 4 - thinnest, most subtle -->
+  <path
+    d="M0 170 C150 150, 250 180, 380 155 C510 130, 580 170, 700 145 C760 130, 780 160, 800 140"
+    stroke="#D9AE78"
+    stroke-width="0.75"
+    stroke-opacity="0.2"
+    stroke-linecap="round"
+  />
+</svg>
